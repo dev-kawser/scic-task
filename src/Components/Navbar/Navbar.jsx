@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 
 const Navbar = () => {
     return (
-        <div>
+        <div className="shadow-lg py-3 rounded-md">
             <div className="navbar bg-base-100">
                 <div className="navbar-start">
                     <div className="dropdown">
